@@ -1,0 +1,14 @@
+{
+	"category" : "QualityAssistantAnalysis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "QAAAutofixEvent",
+	"pools" : [
+		 ],
+	"super" : "QAAEventWithCritic",
+	"type" : "normal" }

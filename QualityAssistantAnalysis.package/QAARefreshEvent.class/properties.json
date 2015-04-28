@@ -1,0 +1,14 @@
+{
+	"category" : "QualityAssistantAnalysis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "QAARefreshEvent",
+	"pools" : [
+		 ],
+	"super" : "QAAEvent",
+	"type" : "normal" }

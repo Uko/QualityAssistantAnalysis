@@ -1,0 +1,16 @@
+{
+	"category" : "QualityAssistantAnalysis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"time",
+		"uuid",
+		"entity" ],
+	"name" : "QAAEventUnmarshaler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

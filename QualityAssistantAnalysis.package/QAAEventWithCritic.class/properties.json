@@ -1,0 +1,14 @@
+{
+	"category" : "QualityAssistantAnalysis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"critic" ],
+	"name" : "QAAEventWithCritic",
+	"pools" : [
+		 ],
+	"super" : "QAAEvent",
+	"type" : "normal" }
