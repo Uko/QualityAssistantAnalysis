@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfQualityAssistantAnalysis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfQualityAssistantAnalysis",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
