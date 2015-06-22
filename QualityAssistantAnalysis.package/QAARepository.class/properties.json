@@ -4,12 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "YuriyTymchuk 6/22/2015 09:36",
+	"commentStamp" : "",
 	"instvars" : [
-		"time",
-		"uuid",
-		"entity" ],
-	"name" : "QAAEventUnmarshaler",
+		"events" ],
+	"name" : "QAARepository",
 	"pools" : [
 		 ],
 	"super" : "Object",

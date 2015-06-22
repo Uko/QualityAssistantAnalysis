@@ -6,5 +6,6 @@ relations
 		'revalidated' -> #createRevalidated: .
 		'critseen'    -> #createCriticsSeen: .
 		'autofix'     -> #createAutofix: .
-		'refresh'     -> #createRefresh:
+		'refresh'     -> #createRefresh: .
+		'skipped'     -> #createSkipped:
 	  } asDictionary

@@ -1,1 +1,2 @@
-(name 'QualityAssistantAnalysis-YuriyTymchuk.1' message 'Initial commit' id 'd59f0995-41ad-49a7-99e7-ffc7edac2049' date '28 April 2015' time '11:54:38.429718 am' author 'YuriyTymchuk' ancestors () stepChildren ())
+(name 'QualityAssistantAnalysis-YuriyTymchuk.2' message 'Added "skip" type. Added basic scripts' id 'f5914024-1b7d-44f9-a50c-eaa00ffa749f' date '22 June 2015' time '1:33:48.227056 pm' author 'YuriyTymchuk' ancestors ((name 'QualityAssistantAnalysis-Uko.1' message 'Initial commit
+' id '219c0a93-2f1c-5015-8157-7cb860a0cc9d' date '28 April 2015' time '3:27:09 pm' author 'Uko' ancestors () stepChildren ())) stepChildren ())
