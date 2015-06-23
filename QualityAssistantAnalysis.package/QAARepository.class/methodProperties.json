@@ -1,6 +1,7 @@
 {
 	"class" : {
-		 },
+		"numberized:" : "YuriyTymchuk 6/23/2015 10:06",
+		"sortAssoc:" : "YuriyTymchuk 6/23/2015 10:03" },
 	"instance" : {
 		"addEvent:" : "YuriyTymchuk 6/22/2015 09:45",
 		"addEvents:" : "YuriyTymchuk 6/22/2015 09:45",
@@ -9,9 +10,13 @@
 		"bySession" : "YuriyTymchuk 6/22/2015 10:59",
 		"byType" : "YuriyTymchuk 6/22/2015 10:07",
 		"criticsFixed" : "YuriyTymchuk 6/22/2015 11:48",
-		"criticsFixedByNumber" : "YuriyTymchuk 6/22/2015 11:32",
 		"criticsPersisted" : "YuriyTymchuk 6/22/2015 11:53",
-		"criticsPersistedByNumber" : "YuriyTymchuk 6/22/2015 11:51",
-		"criticsSeenByNumber" : "YuriyTymchuk 6/22/2015 10:50",
+		"criticsRevalidated" : "YuriyTymchuk 6/23/2015 10:07",
+		"criticsSeen" : "YuriyTymchuk 6/23/2015 10:02",
+		"doesNotUnderstand:" : "YuriyTymchuk 6/23/2015 10:03",
+		"duplicates" : "YuriyTymchuk 6/23/2015 14:17",
 		"events" : "YuriyTymchuk 6/22/2015 09:44",
-		"initialize" : "YuriyTymchuk 6/22/2015 10:04" } }
+		"initialize" : "YuriyTymchuk 6/22/2015 10:04",
+		"removeDuplicates" : "YuriyTymchuk 6/23/2015 15:32",
+		"removeNonRevalidatingSessinons" : "YuriyTymchuk 6/23/2015 15:36",
+		"sanitize" : "YuriyTymchuk 6/23/2015 15:35" } }
