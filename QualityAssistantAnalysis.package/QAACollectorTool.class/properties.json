@@ -1,0 +1,14 @@
+{
+	"category" : "QualityAssistantAnalysis",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "QAACollectorTool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
