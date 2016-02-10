@@ -11,5 +11,5 @@ baseline: spec
 			with: [ 
 				spec
 				className: 'ConfigurationOfRoassal2';
-				version: '1.11';
+				version: '1.20';
 				repository: 'http://smalltalkhub.com/mc/ObjectProfile/Roassal2/main' ] ]
