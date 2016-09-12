@@ -1,16 +1,17 @@
 {
+	"instance" : { },
 	"class" : {
-		"create:eventWithCritic:" : "Uko 4/28/2015 15:27:09",
-		"create:eventWithCritics:" : "Uko 4/28/2015 15:27:09",
-		"createAutofix:" : "Uko 4/28/2015 15:27:09",
 		"createCriticsSeen:" : "Uko 4/28/2015 15:27:09",
-		"createDiffSeen:" : "Uko 4/28/2015 15:27:09",
-		"createRefresh:" : "Uko 4/28/2015 15:27:09",
 		"createRevalidated:" : "Uko 4/28/2015 15:27:09",
-		"createSkipped:" : "YuriyTymchuk 6/19/2015 15:36",
+		"create:eventWithCritics:" : "Uko 4/28/2015 15:27:09",
+		"unmarshalFile:" : "Uko 4/28/2015 15:27:09",
+		"createAutofix:" : "Uko 4/28/2015 15:27:09",
+		"createRefresh:" : "Uko 4/28/2015 15:27:09",
+		"createDiffSeen:" : "Uko 4/28/2015 15:27:09",
+		"create:eventWithCritic:" : "Uko 4/28/2015 15:27:09",
 		"relations" : "YuriyTymchuk 6/19/2015 14:51",
 		"unmarshalArrays:" : "Uko 4/28/2015 15:27:09",
-		"unmarshalFile:" : "Uko 4/28/2015 15:27:09",
-		"unmarshalLines:" : "Uko 4/28/2015 15:27:09" },
-	"instance" : {
-		 } }
+		"createSkipped:" : "YuriyTymchuk 6/19/2015 15:36",
+		"unmarshalLines:" : "Uko 4/28/2015 15:27:09"
+	}
+}

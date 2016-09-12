@@ -1,14 +1,13 @@
 {
-	"category" : "QualityAssistantAnalysis",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"events" ],
-	"name" : "QAARepository",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "QualityAssistantAnalysis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"events"
+	],
+	"name" : "QAARepository",
+	"type" : "normal"
+}

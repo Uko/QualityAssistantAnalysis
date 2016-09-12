@@ -1,16 +1,15 @@
 {
-	"category" : "QualityAssistantAnalysis",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "QualityAssistantAnalysis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"time",
 		"uuid",
-		"entity" ],
+		"entity"
+	],
 	"name" : "QAAEvent",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

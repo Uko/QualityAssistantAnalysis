@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "QAAEvent",
+	"super" : "Object",
 	"category" : "QualityAssistantAnalysis",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"link"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"critics"
-	],
-	"name" : "QAAEventWithCritics",
+	"instvars" : [ ],
+	"name" : "QAAnalysisStreamer",
 	"type" : "normal"
 }

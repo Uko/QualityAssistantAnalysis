@@ -1,7 +1,8 @@
 {
-	"class" : {
-		 },
 	"instance" : {
 		"critics" : "Uko 4/28/2015 15:27:09",
-		"initializeUser:time:entity:critics:" : "Uko 4/28/2015 15:27:09",
-		"similar:" : "YuriyTymchuk 6/23/2015 14:11" } }
+		"similar:" : "YuriyTymchuk 6/23/2015 14:11",
+		"initializeUser:time:entity:critics:" : "Uko 4/28/2015 15:27:09"
+	},
+	"class" : { }
+}
