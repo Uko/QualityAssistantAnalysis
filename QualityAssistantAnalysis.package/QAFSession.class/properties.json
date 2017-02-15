@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "QualityAssistantAnalysis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"computer",
+		"timestamp",
+		"events",
+		"imageVersion",
+		"imageUpdate"
+	],
+	"name" : "QAFSession",
+	"type" : "normal"
+}

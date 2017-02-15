@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "QualityAssistantAnalysis",
+	"classinstvars" : [
+		"data"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "QAFinalAnalysis",
+	"type" : "normal"
+}
