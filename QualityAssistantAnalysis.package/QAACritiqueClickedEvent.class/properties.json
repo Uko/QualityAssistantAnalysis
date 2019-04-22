@@ -1,15 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "QAAEventWithCritic",
 	"category" : "QualityAssistantAnalysis",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"time",
-		"entity",
-		"obfuscated"
-	],
-	"name" : "QAAEvent",
+	"instvars" : [ ],
+	"name" : "QAACritiqueClickedEvent",
 	"type" : "normal"
 }

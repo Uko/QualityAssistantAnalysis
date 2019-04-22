@@ -6,10 +6,10 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"time",
-		"entity",
-		"obfuscated"
+		"id",
+		"computerId",
+		"pharoUpdate"
 	],
-	"name" : "QAAEvent",
+	"name" : "QAASession",
 	"type" : "normal"
 }

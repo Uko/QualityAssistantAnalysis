@@ -6,7 +6,7 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"critic"
+		"critique"
 	],
 	"name" : "QAAEventWithCritic",
 	"type" : "normal"

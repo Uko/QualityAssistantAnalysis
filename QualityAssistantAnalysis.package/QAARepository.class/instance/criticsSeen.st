@@ -1,5 +1,5 @@
 scripts
 criticsSeen
 
-	^ (self byType at: QAACriticsSeenEvent) 
+	^ (self byType at: QAACritiquesSeenEvent) 
 		flatCollect: #critics

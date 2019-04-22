@@ -5,9 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"level"
-	],
-	"name" : "QAASkippedEvent",
+	"instvars" : [ ],
+	"name" : "QAADescriptionViewedEvent",
 	"type" : "normal"
 }

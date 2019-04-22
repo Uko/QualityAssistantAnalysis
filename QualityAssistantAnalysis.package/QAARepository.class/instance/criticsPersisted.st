@@ -9,7 +9,7 @@ criticsPersisted
 			| prevEvent |
 			(event class == QAARevalidatedEvent and: [ 
 			 index > 1 and: [ 
-			(prevEvent := sessionEvents at: index - 1) class = QAACriticsSeenEvent and: [ 
+			(prevEvent := sessionEvents at: index - 1) class = QAACritiquesSeenEvent and: [ 
 			event entity = prevEvent entity ] ] ]) ifTrue: [ 
 				persistedCritics addAll: prevEvent critics & event critics ] ] ].
 		

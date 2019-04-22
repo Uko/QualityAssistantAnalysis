@@ -1,3 +1,3 @@
 accessing
-critic
+critique
 	^ critique

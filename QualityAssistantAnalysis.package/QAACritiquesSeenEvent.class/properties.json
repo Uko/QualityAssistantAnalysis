@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "QAAEventWithCritics",
+	"super" : "QAAEventWithCritiques",
 	"category" : "QualityAssistantAnalysis",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "QAACriticsSeenEvent",
+	"name" : "QAACritiquesSeenEvent",
 	"type" : "normal"
 }
