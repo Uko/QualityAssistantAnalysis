@@ -7,7 +7,7 @@ data
 			QAASession new
 				id: (events anyOne at: #sessionUUID);
 				computerId: (events anyOne at: #computerUUID);
-				update: (((events
+				pharoUpdate: (((events
 					collect: [ :ev | ev at: #latestUpdate ])
 					reject: #isNil)
 					ifEmpty: nil ifNotEmpty: #min);

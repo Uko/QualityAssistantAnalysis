@@ -8,7 +8,8 @@
 	"instvars" : [
 		"id",
 		"computerId",
-		"pharoUpdate"
+		"pharoUpdate",
+		"events"
 	],
 	"name" : "QAASession",
 	"type" : "normal"

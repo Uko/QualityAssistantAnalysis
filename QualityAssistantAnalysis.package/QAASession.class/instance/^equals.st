@@ -1,4 +1,7 @@
 accessing
 = other
 
-	^ id = other id and: [ computerId = other computerUUID ]
+	
+	^ self class = other class and: [
+		id = other id and: [
+		computerId = other computerUUID ] ]
